@@ -76,7 +76,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
 labels[0]:{"texts":["나는 볶음밥을 내 여친이랑 먹고 싶어"],
-          "videos":["https://youtube.com/shorts/RUgH6TBDtsM?si=3DixTMHFkL9g2TlV"]},      
+          "videos":["https://youtube.com/shorts/RUgH6TBDtsM?si=3DixTMHFkL9g2TlV"]},   
+          "images":["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20210720/gv40000204119_1.jpg"]
 labels[1]:{"texts":["나는 짜장면을 내 여친이랑 먹고 싶어"],},
 labels[2]:{"texts":["나는 짬뽕을 내 여친이랑 먹고 싶어"],},
          
