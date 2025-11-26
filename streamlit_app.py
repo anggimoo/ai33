@@ -77,7 +77,7 @@ labels[1]:{"texts":["나는 짜장면을 내 여친이랑 먹고 싶어"],
           "images":["https://sitem.ssgcdn.com/64/98/58/item/1000524589864_i1_750.jpg"]},
 labels[2]:{"texts":["나는 짬뽕을 내 여친이랑 먹고 싶어"],
           "videos":["https://www.youtube.com/shorts/yu6I-1Nj50U"],
-          "images":["hjhj"],},
+          "images":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3K2V4klZPM9EMXAWeVyjyQgvUvLIwehogQ&s"],},
          
 }
 
