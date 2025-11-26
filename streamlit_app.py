@@ -68,18 +68,16 @@ st.markdown("---")
 # 각 라벨당 최대 3개씩 표시됩니다.
 # ======================
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
-    # 예)
-    # "짬뽕": {
-    #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
-    # },
 
 labels[0]:{"texts":["나는 볶음밥을 내 여친이랑 먹고 싶어"],
-          "videos":["https://youtube.com/shorts/RUgH6TBDtsM?si=3DixTMHFkL9g2TlV"]},   
-          "images":["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20210720/gv40000204119_1.jpg"],
-labels[1]:{"texts":["나는 짜장면을 내 여친이랑 먹고 싶어"],},
-labels[2]:{"texts":["나는 짬뽕을 내 여친이랑 먹고 싶어"],},
+          "videos":["https://youtube.com/shorts/RUgH6TBDtsM?si=3DixTMHFkL9g2TlV"],   
+          "images":["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20210720/gv40000204119_1.jpg"]},
+labels[1]:{"texts":["나는 짜장면을 내 여친이랑 먹고 싶어"],
+          "videos":["https://www.youtube.com/watch?v=CN5ODlH6ujc&pp=ygUIV2t3a2RhdXM%3D",
+          "images":[""]},
+labels[2]:{"texts":["나는 짬뽕을 내 여친이랑 먹고 싶어"],
+          "videos":["https://www.youtube.com/shorts/yu6I-1Nj50U"],
+          "images":[""],},
          
 }
 
